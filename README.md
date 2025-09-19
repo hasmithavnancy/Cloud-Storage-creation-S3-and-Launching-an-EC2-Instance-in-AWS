@@ -1,5 +1,9 @@
 # Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
 Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
+~~~
+Name: HASMITHA V NANCY
+Reg No:212224040111
+~~~
 Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
 Procedure
@@ -49,38 +53,11 @@ d)	Steps to Clean Up (Terminate the Instance)
 
 
 Snap Shots:
- 
-
 Snap Shot 1: Simple Storage Service (S3)
- 
+ <img width="1009" height="546" alt="image" src="https://github.com/user-attachments/assets/f9915f22-319f-498c-9df5-29c9eccaf75f" />
 
 Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="981" height="562" alt="image" src="https://github.com/user-attachments/assets/22e3188c-f3f5-4462-a8a3-27a2b82ee958" />
 
 Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
